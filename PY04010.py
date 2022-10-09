@@ -1,0 +1,1 @@
+print('{} {} {:.1f}'.format(input(),input(),float(input())+float(input())+float(input())))
